@@ -1,0 +1,80 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+section{
+    text-align: center;
+}
+
+.login_page{
+  
+border: 2px solid rgba(0, 0, 0, 0.342);
+width: 35%;
+margin: 0 auto;
+/* background: rgba(88, 88, 88, 0.171); */
+margin-top: 5%;
+box-shadow: 0px 4px 15px 2px;
+border-radius: 10px;
+border-style: none;
+margin-bottom: 50px;
+
+}
+
+.login_page h6{
+    padding:2%;
+    font-weight: 700;
+
+
+}
+.box{
+    padding: 10px;
+margin-left: 10px;
+width: 96%;
+border-radius: 5px;
+border-style: none;
+background-color: rgb(240, 222, 222);
+
+
+}
+
+.login_page h1{
+    text-align: center;
+    color: rgb(0, 70, 128);
+    padding-top: 3%;
+    font-weight: 900;
+
+}
+#button {
+    margin-bottom: 5%;
+background-color:rgb(0, 70, 128);
+width: 96%;
+font-size: 20px;
+font-weight: 800;
+border: none;
+padding: 1%;
+margin-top: 5%;
+border-radius: 5px;
+color: aliceblue;
+cursor: pointer;
+padding: 8px;
+
+}
+
+
+.login_page p{
+    color: brown;
+    margin-left: 2%;
+}
+
+span.register{
+    margin-left: 26%;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+}
+.register {
+    text-align: center;
+    padding-bottom: 3%;
+}

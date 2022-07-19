@@ -1,0 +1,22 @@
+.items_img{
+    justify-content: center;
+    /* width: 80%;
+    margin: 0 auto;
+    height:24rem; */
+
+    align-items: center;
+
+}
+
+
+#counter{
+    margin: auto;
+}
+
+
+.Container1{
+    border: 1px solid darkgray ;
+    width: 98%;
+    margin: 0 auto;
+
+}
